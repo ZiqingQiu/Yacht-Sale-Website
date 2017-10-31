@@ -1,6 +1,5 @@
 # Yacht-Sale-Website
-A website for selling yacht, final project for HTML/CSS foundamentals
+A website for selling yacht, final project for HTML/CSS fundamentals
 <br>
-Below is the screen shot of this project
-<br>
-![Alt text](/images/screenshot.png)
+![Alt text](/images/screenshot/screenshot_index.png)
+
