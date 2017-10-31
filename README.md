@@ -1,4 +1,4 @@
-# Yacht-Sale-Website
+# Yacht Sale
 A website for selling yacht, final project for web interface design
 
 * complex page layout
