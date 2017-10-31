@@ -6,5 +6,6 @@ A website for selling yacht, final project for web interface design
 * google map APIs
 
 <br>
+
 ![Alt text](/images/screenshot/screenshot_index.png)
 
