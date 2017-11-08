@@ -11,3 +11,4 @@ A website for selling yacht, final project for web interface design
 
 ![Alt text](/images/screenshot/screenshot_index.png)
 
+[![HitCount](http://hits.dwyl.io/ziqingqiu/yacht-sale-website.svg)](http://hits.dwyl.io/ziqingqiu/yacht-sale-website)
